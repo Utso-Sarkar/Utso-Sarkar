@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Python ,JS, JAVA ,C++ ,React**
+- 🌱 I’m currently learning **Python ,JS, JAVA ,C++ , React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Utso-Sarkar](https://github.com/Utso-Sarkar)
 
