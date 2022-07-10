@@ -35,4 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utso-sarkar&show_icons=true&locale=en" alt="utso-sarkar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utso-sarkar&" alt="utso-sarkar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Utso-Sarkar&" alt="Utso-Sarkar" /></p>
