@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utso Sarkar</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h2 align="center">Full Stack Developer</h2>
 <img src="https://github.com/Utso-Sarkar/Utso-Sarkar/blob/main/Yellow%20Black%20Jazz%20Music%20YouTube%20Channel%20Art.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utso-sarkar&label=Profile%20views&color=0e75b6&style=flat" alt="utso-sarkar" /> </p>
 
